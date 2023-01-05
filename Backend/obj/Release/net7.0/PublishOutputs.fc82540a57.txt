@@ -1,0 +1,12 @@
+/media/bakr/Bld/NET/Backend
+/media/bakr/Bld/NET/appsettings.Development.json
+/media/bakr/Bld/NET/appsettings.json
+/media/bakr/Bld/NET/Backend.dll
+/media/bakr/Bld/NET/Backend.deps.json
+/media/bakr/Bld/NET/Backend.runtimeconfig.json
+/media/bakr/Bld/NET/Backend.pdb
+/media/bakr/Bld/NET/Microsoft.AspNetCore.OpenApi.dll
+/media/bakr/Bld/NET/Microsoft.OpenApi.dll
+/media/bakr/Bld/NET/Swashbuckle.AspNetCore.Swagger.dll
+/media/bakr/Bld/NET/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/bakr/Bld/NET/Swashbuckle.AspNetCore.SwaggerUI.dll

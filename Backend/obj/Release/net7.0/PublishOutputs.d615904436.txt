@@ -1,0 +1,12 @@
+/media/bakr/New Volume/s/Backend
+/media/bakr/New Volume/s/appsettings.Development.json
+/media/bakr/New Volume/s/appsettings.json
+/media/bakr/New Volume/s/Backend.dll
+/media/bakr/New Volume/s/Backend.deps.json
+/media/bakr/New Volume/s/Backend.runtimeconfig.json
+/media/bakr/New Volume/s/Backend.pdb
+/media/bakr/New Volume/s/Microsoft.AspNetCore.OpenApi.dll
+/media/bakr/New Volume/s/Microsoft.OpenApi.dll
+/media/bakr/New Volume/s/Swashbuckle.AspNetCore.Swagger.dll
+/media/bakr/New Volume/s/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/bakr/New Volume/s/Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,12 @@
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/Backend
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/appsettings.Development.json
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/appsettings.json
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/Backend.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/Backend.deps.json
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/Backend.runtimeconfig.json
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/Backend.pdb
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/Microsoft.OpenApi.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
